@@ -28,7 +28,7 @@ Here are some of my skills:
 > bash
 ```
 
-### Currently learning
+### Currently Learning
 ```
 > LaTeX
 > Kotlin
@@ -44,12 +44,18 @@ Here are some of my skills:
 
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail)]({mailto:jbmattos2003@gmail.com})
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-[![Discord Badge](https://dcbadge.limes.pink/api/shield/YOUR_USER_ID)](https://discord.com/users/555136588468977692)
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/juliamattos2003)
+
+[![Discord Badge](https://dcbadge.limes.pink/api/shield/555136588468977692)](https://discord.com/users/555136588468977692)
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="40" />
 
 ---
 
